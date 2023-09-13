@@ -32,7 +32,8 @@ ktlint {
       "comment-spacing",
       "filename",
       "import-ordering",
-      "no-line-break-before-assignment"
+      "no-line-break-before-assignment",
+      "multiline-if-else"
     )
   )
 }
