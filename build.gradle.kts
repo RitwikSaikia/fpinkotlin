@@ -33,6 +33,7 @@ ktlint {
       "filename",
       "import-ordering",
       "no-line-break-before-assignment",
+      "no-wildcard-import",
       "multiline-if-else"
     )
   )

@@ -12,3 +12,5 @@ ij_wrap_on_typing = true
 
 [*.{kt,kts}]
 ktlint_disabled_rules=no-wildcard-imports
+wildcard_import_limit = 999
+ij_kotlin_packages_to_use_import_on_demand = chapter04
